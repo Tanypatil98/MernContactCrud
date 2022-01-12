@@ -1,0 +1,16 @@
+.pagination li {
+    border: 1px solid skyblue;
+    padding: 15px;
+}
+
+.pagination a {
+    text-decoration: none;
+}
+
+.active {
+    background: blue;
+}
+
+.active a{
+    color: white;
+}
